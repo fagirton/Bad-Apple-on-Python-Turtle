@@ -6,7 +6,7 @@ Here's preview:
 
 This program draws every single frame of Bad Apple video inside Python Turtle Graphics,
  but since Turtle is incredibly slow, you'll see the end of it only after 4 hours. 
-This project was made in one day, so I haven't figured out how to optimise drawing and get rid of weird lines across picture (let me know if you know how)
+This project was made in one day, so I haven't figured out how to optimise drawing and get rid of weird lines across picture (let me know if you know how).
 
 ## Basic explanation of how it works
 1. FFMPEG converts video to PNG images with threshold filter from [here](https://video.stackexchange.com/questions/28758/ffmpeg-convert-video-to-black-white-with-threshold/28759#28759)
