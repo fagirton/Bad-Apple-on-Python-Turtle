@@ -2,7 +2,7 @@
 Probably worst possible way to watch Bad Apple
 
 
-* paste video here
+![caption](preview-v0.5.mp4)
 
 This program draws every single frame of Bad Apple video inside Python Turtle Graphics,
  but since Turtle is incredibly slow, you'll see the end of it only after 4 hours. 
